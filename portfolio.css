@@ -1,4 +1,45 @@
 .photo{
   width: 400px;
-  
+}
+
+body{
+  background-color: #e6e6e6;
+}
+
+header{
+  border-bottom: 1px solid #bdbdbd;
+
+}
+
+header img{
+  width:50%;
+  length:30%;
+}
+
+main{
+      margin-top: 50px;
+      margin-bottom:50px;
+      background-color: #bdbdbd;
+}
+
+.center{
+  text-align: center;
+  margin:auto;
+}
+
+footer{
+  border-top: 1px solid #bdbdbd;
+}
+
+footer ul{
+  padding: 0px;
+}
+
+footer li{
+  list-style: none;
+  display: inline-block;
+  margin:auto;
+  padding-left: 10px;
+  padding-right:10px;
+  font-size: 23px;
 }
